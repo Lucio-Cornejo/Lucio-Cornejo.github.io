@@ -2,88 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lucio-cornejo.github.io/courses/example/python/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/courses/example/visualization/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/courses/example/stats/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://lucio-cornejo.github.io/post/introduction/</loc>
+    <lastmod>2021-06-17T13:36:42-05:00</lastmod>
   </url><url>
     <loc>https://lucio-cornejo.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/post/introduction/</loc>
     <lastmod>2021-06-17T13:36:42-05:00</lastmod>
   </url><url>
     <loc>https://lucio-cornejo.github.io/post/</loc>
     <lastmod>2021-06-17T13:36:42-05:00</lastmod>
   </url><url>
-    <loc>https://lucio-cornejo.github.io/courses/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/courses/example/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/authors/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/author/nelson-bighetti/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/post/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/tag/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/category/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/tag/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/tag/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://lucio-cornejo.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lucio-cornejo.github.io/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucio-cornejo.github.io/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucio-cornejo.github.io/authors/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucio-cornejo.github.io/author/lucio-cornejo/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucio-cornejo.github.io/publication_types/</loc>
@@ -95,8 +32,8 @@
     <loc>https://lucio-cornejo.github.io/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lucio-cornejo.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>https://lucio-cornejo.github.io/tags/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucio-cornejo.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
@@ -136,6 +73,6 @@
   </url><url>
     <loc>https://lucio-cornejo.github.io/admin/</loc>
   </url><url>
-    <loc>https://lucio-cornejo.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>https://lucio-cornejo.github.io/categories/</loc>
   </url>
 </urlset>
